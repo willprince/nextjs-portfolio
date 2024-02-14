@@ -18,12 +18,6 @@ const homePage = `export default function Page() {
         This is your new portfolio.
       </p>
     </section>
-    <section>
-      <h1 className="font-medium text-2xl mb-8 tracking-tighter">my work</h1>
-      <p className="prose prose-neutral dark:prose-invert">
-        This is where your work experience goes.
-      </p>
-    </section>
   );
 }
 `;
