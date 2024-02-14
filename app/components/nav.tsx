@@ -1,12 +1,12 @@
 import Link from 'next/link';
 
 const navItems = {
-  '/': {
-    name: 'home',
-  },
-  '/work': {
-    name: 'work',
-  }
+  //'/': {
+  //  name: 'home',
+  //},
+  //'/work': {
+  //  name: 'work',
+  //}
 };
 
 export function Navbar() {
