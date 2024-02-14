@@ -16,7 +16,7 @@ const homePage = `export default function Page() {
     <section>
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">hey, I'm William Prince 👋</h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I'm a fullstack software engineer building great user experiences. I have experience working with html/css/js, React, TypeScript, Graphql and Rest apis. I am currently looking for new opportunities.
+        Je suis un ingénieur logiciel fullstack qui crée de superbes expériences utilisateur. J'ai de l'expérience dans le développement avec HTML/CSS/JS, React, TypeScript, GraphQL et les APIs REST. Je suis actuellement à la recherche de nouvelles opportunités.
       </p>
     </section>
     <section>
