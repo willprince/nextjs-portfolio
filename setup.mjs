@@ -21,11 +21,11 @@ const homePage = `export default function Page() {
     </section>
     <section>
       <div className="prose prose-neutral dark:prose-invert">
-        <h1 className="font-medium text-2xl mb-8 tracking-tighter">my work</h1>
+        <h2 className="font-medium text-2xl mb-8 tracking-tighter">my work</h2>
         <p className="prose prose-neutral dark:prose-invert">
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
-        <h2 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h2>
+        <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
