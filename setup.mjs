@@ -21,9 +21,9 @@ const homePage = `export default function Page() {
     </section>
     <section>
       <div className="prose prose-neutral dark:prose-invert">
-        <h2 className="font-medium text-2xl mb-8 tracking-tighter">my work</h2>
+        <h2 className="font-medium text-2xl mb-8 tracking-tighter">mon travail</h2>
         <p className="prose prose-neutral dark:prose-invert">
-          On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
+          Je suis en mission pour construire des produits que les utilisateurs adorent et, en chemin, augmenter les revenus de mes clients. Voici un résumé de mon travail jusqu'à présent.
         </p>
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer (09/2021
