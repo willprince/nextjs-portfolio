@@ -31,7 +31,9 @@ const workPage = `export default function Page() {
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
       </div>
-      <h2 className="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
+      <hr className="my-6 border-neutral-100 dark:border-neutral-800">
+      <h2 className="font-medium text-xl mb-1 tracking-tighter">Centralio</h2>
+      <p class="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
     </section>
     
   );
