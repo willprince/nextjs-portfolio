@@ -15,7 +15,7 @@ const homePage = `export default function Page() {
     <section>
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">hey, I'm William Prince 👋</h1>
       <p className="prose prose-neutral dark:prose-invert">
-        This is your new portfolio.
+        I'm a fullstack software engineer with a passion for building delightful user experiences. I have experience working with Html/Css/js, React, TypeScript, Graphql and Rest apis. I am currently looking for new opportunities.
       </p>
     </section>
   );
