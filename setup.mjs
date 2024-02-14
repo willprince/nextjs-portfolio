@@ -31,7 +31,7 @@ const workPage = `export default function Page() {
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
       </div>
-      <h2 class="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
+      <h2 className="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
     </section>
     
   );
