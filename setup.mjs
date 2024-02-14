@@ -30,7 +30,6 @@ const workPage = `export default function Page() {
         <p className="prose prose-neutral dark:prose-invert">
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
-        <hr class="my-6 border-neutral-100 dark:border-neutral-800">
       </div>
       
     </section>
