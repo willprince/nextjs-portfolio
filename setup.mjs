@@ -33,7 +33,7 @@ const workPage = `export default function Page() {
       </div>
       <hr className="my-6 border-neutral-100 dark:border-neutral-800">
       <h2 className="font-medium text-xl mb-1 tracking-tighter">Centralio</h2>
-      <p class="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
+      <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
     </section>
     
   );
