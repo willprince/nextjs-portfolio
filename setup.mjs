@@ -29,6 +29,9 @@ const workPage = `export default function Page() {
       <p className="prose prose-neutral dark:prose-invert">
         This is where your work experience goes.
       </p>
+      <hr class="my-6 border-neutral-100 dark:border-neutral-800">
+      <h2 class="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
+      <p class="text-neutral-600 dark:text-neutral-400 text-sm">VP of Product</p>
     </section>
   );
 }
