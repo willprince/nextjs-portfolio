@@ -14,9 +14,9 @@ const homePage = `export default function Page() {
   return (
     <div>
     <section>
-      <h1 className="font-medium text-2xl mb-8 tracking-tighter">hey, I'm William Prince 👋</h1>
+      <h1 className="font-medium text-2xl mb-8 tracking-tighter">salut, je suis William Prince 👋</h1>
       <p className="prose prose-neutral dark:prose-invert">
-        Je suis un ingénieur logiciel fullstack qui crée de superbes expériences utilisateur. J'ai de l'expérience dans le développement avec HTML/CSS/JS, React, TypeScript, GraphQL et les APIs REST. Je suis actuellement à la recherche de nouvelles opportunités.
+        Je suis un ingénieur logiciel fullstack (Qui ne fait pas de design). J'ai de l'expérience dans le développement avec HTML/CSS/JS, React, TypeScript, GraphQL et les APIs REST. Je suis actuellement à la recherche de nouvelles opportunités.
       </p>
     </section>
     <section>
@@ -26,9 +26,9 @@ const homePage = `export default function Page() {
           Je suis en mission pour construire des produits que les utilisateurs adorent et, en chemin, augmenter les revenus de mes clients. Voici un résumé de mon travail jusqu'à présent.
         </p>
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer (09/2021
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack Programmeur-analyste (09/2021
 - 01/2024)</p>
-        <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
+        <p className="prose prose-neutral dark:prose-invert">J'ai été le premier ingénieur logiciel embauché chez Centralio et j'ai commencé à construire les fondations de l'application SaaS.</p>
         <ul>
           <li>
             Impliqué dans l'architecture, la conception et la mise en œuvre des
@@ -49,7 +49,7 @@ const homePage = `export default function Page() {
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">Co-op Programmeur-analyste (06/2020
 - 12/2020)</p>
-        <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
+        <p className="prose prose-neutral dark:prose-invert">J'ai travaillé sur des applications sur mesure pour deux de nos clients. </p>
         <ul>
           <li>
             Établir les spécification et développement du système back-end de
