@@ -26,7 +26,8 @@ const homePage = `export default function Page() {
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">09/2021
+- 01/2024 Fullstack software engineer</p>
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
@@ -46,22 +47,20 @@ const homePage = `export default function Page() {
         </ul>
 
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">06/2020
+- 12/2020 Co-op Programmeur-analyste</p>
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
-            Impliqué dans l'architecture, la conception et la mise en œuvre des
-            fonctionnalités back-end en utilisant TypeScript.
+            Établir les spécification et développement du système back-end de
+facturation, d'inventaire et de tâches en PHP avec le framework Laravel,
+ainsi que le front-end avec Vue.
           </li>
           <li>
-            Collaboré avec d'autres ingénieurs pour évaluer et améliorer les interfaces
-            logicielles et matérielles.
+            Dévelopement des tests automatisés du back-end.
           </li>
           <li>
-            Travaillé avec les membres de l'équipe de développement et de test
-            logiciel pour concevoir et développer des solutions robustes répondant aux
-            exigences des clients en termes de fonctionnalité, évolutivité et
-            performance.
+            Dévelopement de plusieurs tâches de génération de rapport.
           </li>
         </ul>
         
