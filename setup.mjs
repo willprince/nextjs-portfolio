@@ -27,7 +27,7 @@ const workPage = `export default function Page() {
     <section>
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">my work</h1>
       <p className="prose prose-neutral dark:prose-invert">
-        This is where your work experience goes.
+        On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
       </p>
       <hr class="my-6 border-neutral-100 dark:border-neutral-800">
       <h2 class="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
