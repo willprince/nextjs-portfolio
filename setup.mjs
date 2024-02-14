@@ -26,8 +26,8 @@ const homePage = `export default function Page() {
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">09/2021
-- 01/2024 Fullstack software engineer</p>
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer (09/2021
+- 01/2024)</p>
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
@@ -47,8 +47,8 @@ const homePage = `export default function Page() {
         </ul>
 
         <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
-        <p className="text-neutral-600 dark:text-neutral-400 text-sm">06/2020
-- 12/2020 Co-op Programmeur-analyste</p>
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Co-op Programmeur-analyste (06/2020
+- 12/2020)</p>
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
