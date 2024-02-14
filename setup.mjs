@@ -15,7 +15,7 @@ const homePage = `export default function Page() {
     <section>
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">hey, I'm William Prince 👋</h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I'm a fullstack software engineer with a passion for building delightful user experiences. I have experience working with Html/Css/js, React, TypeScript, Graphql and Rest apis. I am currently looking for new opportunities.
+        I'm a fullstack software engineer building great user experiences. I have experience working with html/css/js, React, TypeScript, Graphql and Rest apis. I am currently looking for new opportunities.
       </p>
     </section>
   );
@@ -31,7 +31,7 @@ const workPage = `export default function Page() {
           On a mission to build products users love, and along the way, increase my client revenus. Here's a summary of my work so far.
         </p>
       </div>
-      
+      <h2 class="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
     </section>
     
   );
