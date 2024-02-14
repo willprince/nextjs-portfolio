@@ -30,9 +30,41 @@ const homePage = `export default function Page() {
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
-            First
+            Impliqué dans l'architecture, la conception et la mise en œuvre des
+            fonctionnalités back-end en utilisant TypeScript.
+          </li>
+          <li>
+            Collaboré avec d'autres ingénieurs pour évaluer et améliorer les interfaces
+            logicielles et matérielles.
+          </li>
+          <li>
+            Travaillé avec les membres de l'équipe de développement et de test
+            logiciel pour concevoir et développer des solutions robustes répondant aux
+            exigences des clients en termes de fonctionnalité, évolutivité et
+            performance.
           </li>
         </ul>
+
+        <h3 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/">Centralio</a></h3>
+        <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
+        <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
+        <ul>
+          <li>
+            Impliqué dans l'architecture, la conception et la mise en œuvre des
+            fonctionnalités back-end en utilisant TypeScript.
+          </li>
+          <li>
+            Collaboré avec d'autres ingénieurs pour évaluer et améliorer les interfaces
+            logicielles et matérielles.
+          </li>
+          <li>
+            Travaillé avec les membres de l'équipe de développement et de test
+            logiciel pour concevoir et développer des solutions robustes répondant aux
+            exigences des clients en termes de fonctionnalité, évolutivité et
+            performance.
+          </li>
+        </ul>
+        
       </div>
     </section>
     </div>
