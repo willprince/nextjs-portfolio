@@ -34,7 +34,7 @@ const workPage = `export default function Page() {
       
       <h2 className="font-medium text-xl mb-1 tracking-tighter"><a href="https://centralio.com/home">Centralio</a></h2>
       <p className="text-neutral-600 dark:text-neutral-400 text-sm">Fullstack software engineer</p>
-      <p>I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
+      <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
       <ul>
         <li>
           First
