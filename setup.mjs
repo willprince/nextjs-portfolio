@@ -35,8 +35,7 @@ const workPage = `export default function Page() {
         <p className="prose prose-neutral dark:prose-invert">I was the first software engineer hired at Centralio and I started building the fundation of the Saas application.</p>
         <ul>
           <li>
-            ::marker
-            First
+            - First
           </li>
         </ul>
       </div>
