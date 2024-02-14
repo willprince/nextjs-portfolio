@@ -33,6 +33,7 @@ const workPage = `export default function Page() {
       <h2 class="font-medium text-xl mb-1 tracking-tighter">Vercel</h2>
       <p class="text-neutral-600 dark:text-neutral-400 text-sm">VP of Product</p>
     </section>
+    
   );
 }
 `;
